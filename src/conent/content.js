@@ -70,10 +70,10 @@ export const project = [
         "title":"Smart Healthcare System for skin Disease Prediction with Encrypted EMR Storage Using Blockchain and EfficientNetB0",
         "Stack":["Html 5","Css 3","Javascript","Flask","Smart contract","ethereum","SQLite","CryptoChaos Encryption","TensorFlow","EfficientNetB0","Ganache","NumPy","Pandas","Matplotlib"],
         "description":`Developed a secure healthcare platform for EMR management using Ethereum blockchain, IPFS, and CryptoChaos encryption, ensuring data privacy and tamper-proof access. Integrated EfficientNetB0-based skin disease prediction and built the system using Python, Flask, TensorFlow, and SQLite.`,
-        "image":'/images/app.jpg',
+        "image":'/images/project3.png',
         "links":[{
             "name":"GitHub Code",
-            "link":"https://github.com/hirthickgowtham/Weather-information-site"
+            "link":"https://github.com/Nanonimous/final-year-project.git"
         }]
     },
     {
@@ -82,8 +82,8 @@ export const project = [
         "description":`Developed an Android application to identify and explore Carnatic ragas from the 72 Melakarta system, featuring a custom virtual keyboard for note-based raga detection and detailed raga pages with audio playback to support music learning. Role: React Native Developer.`,
         "image":'/images/app.jpg',
         "links":[{
-            "name":"GitHub Code",
-            "link":"https://github.com/hirthickgowtham/Weather-information-site"
+            "name":"Drive Link",
+            "link":"https://drive.google.com/file/d/1i9Zj_0asKJJtHXCwj7XmlNq-4SVZFGXC/view?usp=drive_link"
         }]
     },
     
@@ -127,10 +127,6 @@ export const tech = [[{
 {
     "name":"MongoDB",
     "icon":"https://www.mongodb.com/favicon.ico"
-},
-{
-    "name":"Python",
-    "icon":"https://www.python.org/favicon.ico"
 },
 {
     "name":"Redis",
