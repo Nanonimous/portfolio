@@ -156,11 +156,11 @@ export const tech = [[{
 
 export const contact = [
     {
-        "icon":"/portfolio-site/images/github.png",
+        "icon":"/portfolio/images/github.png",
         "link":"https://github.com/Nanonimous"
     },
     {
-        "icon":"/portfolio-site/images/linked_in.png",
+        "icon":"/portfolio/images/linked_in.png",
         "link":"https://www.linkedin.com/in/nivaasb/"
     }
 ]
