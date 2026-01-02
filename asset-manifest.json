@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Nanonimous/portfolio.git/static/css/main.e673aca3.css",
+    "main.js": "/Nanonimous/portfolio.git/static/js/main.e0780e48.js",
+    "static/js/453.f9963884.chunk.js": "/Nanonimous/portfolio.git/static/js/453.f9963884.chunk.js",
+    "static/media/logo.png": "/Nanonimous/portfolio.git/static/media/logo.7c973d0cbc7cf3f801bc.png",
+    "index.html": "/Nanonimous/portfolio.git/index.html",
+    "main.e673aca3.css.map": "/Nanonimous/portfolio.git/static/css/main.e673aca3.css.map",
+    "main.e0780e48.js.map": "/Nanonimous/portfolio.git/static/js/main.e0780e48.js.map",
+    "453.f9963884.chunk.js.map": "/Nanonimous/portfolio.git/static/js/453.f9963884.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e673aca3.css",
+    "static/js/main.e0780e48.js"
+  ]
+}
