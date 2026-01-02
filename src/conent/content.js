@@ -94,11 +94,11 @@ export const project = [
 
 export const tech = [[{
     "name":"Html 5",
-    "icon":"/portfolio-site/images/html.png"
+    "icon":"/portfolio/images/html.png"
 },
 {
     "name":"CSS 3",
-    "icon":"/portfolio-site/images/css.png"
+    "icon":"/portfolio/images/css.png"
 },
 {
     "name":"Java Script",
@@ -122,7 +122,7 @@ export const tech = [[{
 },
 {
     "name":"postgresql",
-    "icon":"/portfolio-site/images/postgresql.png"
+    "icon":"/portfolio/images/postgresql.png"
 },
 {
     "name":"MongoDB",
@@ -130,12 +130,12 @@ export const tech = [[{
 },
 {
     "name":"Redis",
-    "icon":"/portfolio-site/images/redis.png"
+    "icon":"/portfolio/images/redis.png"
 }
 ],
 [{
     "name":"VS code",
-    "icon":"/portfolio-site/images/vscode.png"
+    "icon":"/portfolio/images/vscode.png"
     
 },
 {
@@ -148,7 +148,7 @@ export const tech = [[{
 },
 {
     "name":"GitHub",
-    "icon":"/portfolio-site/images/github (2).png"
+    "icon":"/portfolio/images/github (2).png"
 }
 
 ]]
